@@ -1,4 +1,4 @@
-
+Wine for macOS advanced Extension: snapshot-rollback & guest-OS-support is the best Wine for macOS extension, featuring snapshot-rollback and guest-OS-support. Powerful,
 
 
 
